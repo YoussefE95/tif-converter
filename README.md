@@ -7,13 +7,13 @@
 
 ## Before using, the necessary packages need to be installed. In this directory, run the following command:
 
-```
+```bash
     npm install
 ```
 
 ## The script can now be used like so:
 
-```
+```bash
     # Convert to 80% of the original resolution
     node convert.js ./input/grain_density_310.eq.tif 80
 
